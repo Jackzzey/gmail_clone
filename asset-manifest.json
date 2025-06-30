@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gmail_clone/static/css/main.64992f57.css",
+    "main.js": "/gmail_clone/static/js/main.0c1547da.js",
+    "static/js/488.ff69ff94.chunk.js": "/gmail_clone/static/js/488.ff69ff94.chunk.js",
+    "index.html": "/gmail_clone/index.html",
+    "main.64992f57.css.map": "/gmail_clone/static/css/main.64992f57.css.map",
+    "main.0c1547da.js.map": "/gmail_clone/static/js/main.0c1547da.js.map",
+    "488.ff69ff94.chunk.js.map": "/gmail_clone/static/js/488.ff69ff94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64992f57.css",
+    "static/js/main.0c1547da.js"
+  ]
+}
